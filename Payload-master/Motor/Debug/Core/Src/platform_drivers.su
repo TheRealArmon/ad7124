@@ -1,0 +1,15 @@
+platform_drivers.c:72:9:i2c_init	16	static
+platform_drivers.c:91:9:i2c_remove	16	static
+platform_drivers.c:110:9:i2c_write	24	static
+platform_drivers.c:144:9:i2c_read	24	static
+platform_drivers.c:174:9:spi_init	16	static
+platform_drivers.c:201:9:spi_remove	16	static
+platform_drivers.c:217:9:spi_write_and_read	32	static
+platform_drivers.c:248:9:gpio_get	16	static
+platform_drivers.c:267:9:gpio_remove	16	static
+platform_drivers.c:281:9:gpio_direction_input	16	static
+platform_drivers.c:298:9:gpio_direction_output	16	static
+platform_drivers.c:320:9:gpio_get_direction	16	static
+platform_drivers.c:342:9:gpio_set_value	16	static
+platform_drivers.c:364:9:gpio_get_value	16	static
+platform_drivers.c:383:6:mdelay	16	static

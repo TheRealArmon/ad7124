@@ -1,0 +1,14 @@
+ad7124.c:74:9:ad7124_no_check_read_register	48	static
+ad7124.c:150:9:ad7124_no_check_write_register	40	static
+ad7124.c:200:9:ad7124_read_register	24	static
+ad7124.c:227:9:ad7124_write_register	32	static
+ad7124.c:251:9:ad7124_reset	32	static
+ad7124.c:284:9:ad7124_wait_for_spi_ready	32	static
+ad7124.c:319:9:ad7124_wait_to_power_on	32	static
+ad7124.c:353:9:ad7124_wait_for_conv_ready	32	static
+ad7124.c:387:9:ad7124_read_data	24	static
+ad7124.c:415:9:ad7124_compute_crc8	24	static
+ad7124.c:442:6:ad7124_update_crcsetting	24	static
+ad7124.c:466:6:ad7124_update_dev_spi_settings	24	static
+ad7124.c:491:9:ad7124_setup	40	static
+ad7124.c:546:9:ad7124_remove	24	static

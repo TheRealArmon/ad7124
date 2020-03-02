@@ -1,0 +1,16 @@
+ad7124_console_app.c:99:9:ad7124_app_initialize	64	static
+ad7124_console_app.c:147:13:was_escape_key_pressed	16	static
+ad7124_console_app.c:167:13:read_status_register	16	static
+ad7124_console_app.c:186:13:dislay_channel_samples	48	static
+ad7124_console_app.c:238:13:clear_channel_samples	16	static
+ad7124_console_app.c:254:16:do_continuous_conversion	40	static
+ad7124_console_app.c:350:16:menu_continuous_conversion_tabular	8	static
+ad7124_console_app.c:368:16:menu_continuous_conversion_stream	8	static
+ad7124_console_app.c:386:16:menu_single_conversion	40	static
+ad7124_console_app.c:486:16:menu_read_status	8	static
+ad7124_console_app.c:499:16:menu_read_id	8	static
+ad7124_console_app.c:517:13:init_with_configuration	24	static
+ad7124_console_app.c:545:16:menu_reset	8	static
+ad7124_console_app.c:566:16:menu_reset_to_configuration_a	8	static
+ad7124_console_app.c:578:16:menu_reset_to_configuration_b	8	static
+ad7124_console_app.c:607:16:menu_sample_channels	8	static
