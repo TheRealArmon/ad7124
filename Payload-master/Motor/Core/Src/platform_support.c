@@ -73,7 +73,7 @@ POSSIBILITY OF SUCH DAMAGE.
   * @param  None
   * @retval character read uart
   */
-int __io_getchar(void)
+int getchar(void)
 {
   /* Implementation of __io_getchar */
     char rxChar;

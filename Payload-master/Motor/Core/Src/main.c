@@ -142,13 +142,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  test_blink();
-	  putchar('=');
-	  printf("test");
-	  HAL_Delay(100);
-	  putchar(getchar());
-	  HAL_Delay(1000);
-
 	  //display the console menu for the AD7124 application
 	  adi_do_console_menu(&ad7124_main_menu);
 
